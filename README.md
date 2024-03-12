@@ -1,2 +1,3 @@
 # Biometric Fingerprint Scanner
-Procesamiento biométrico de huellas dactilares para procesar la imagen de una huella y tras varias iteraciones calcula la lista de minutias asociada a la misma.
+Powerful program designed to scan and process biometric fingerprints.
+This versatile tool not only captures high-quality fingerprint images but also performs intricate processing to extract minutiae points, providing a detailed list associated with each fingerprint.
