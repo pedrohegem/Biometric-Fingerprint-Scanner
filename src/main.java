@@ -461,7 +461,7 @@ public class byss1 {
 
 	public static void main(String args[]) throws IOException {
 		// Parte 1
-		BufferedImage imagen = cargarImagen("Huella.png");
+		BufferedImage imagen = cargarImagen("fingerprint.png");
 
 		FingerPrintImage imagenGrises = transformarGrises(imagen);
 		calcularValores(imagenGrises);
